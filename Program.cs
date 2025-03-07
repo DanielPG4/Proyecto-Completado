@@ -179,6 +179,7 @@ class Program
 
             while(cantDePasos > 0)
             {
+                Console.Clear();
                 tablero.MostrarLaberinto(jugador, otroJugador);
                 Console.WriteLine("Usa W/A/S/D para mover:");
                 char direccion = Console.ReadKey().KeyChar;

@@ -1,0 +1,15 @@
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Maze Runers .exe
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Maze Runers .deps.json
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Maze Runers .runtimeconfig.json
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Maze Runers .dll
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Maze Runers .pdb
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .AssemblyInfoInputs.cache
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .AssemblyInfo.cs
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .csproj.CoreCompileInputs.cache
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .sourcelink.json
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .dll
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\refint\Maze Runers .dll
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .pdb
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Maze Runers .genruntimeconfig.cache
+c:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\ref\Maze Runers .dll

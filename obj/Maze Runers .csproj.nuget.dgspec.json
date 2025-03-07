@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Nueva carpeta (3).csproj": {}
+    "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Maze Runers .csproj": {}
   },
   "projects": {
-    "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Nueva carpeta (3).csproj": {
+    "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Maze Runers .csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Nueva carpeta (3).csproj",
-        "projectName": "Nueva carpeta (3)",
-        "projectPath": "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Nueva carpeta (3).csproj",
+        "projectUniqueName": "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Maze Runers .csproj",
+        "projectName": "Maze Runers",
+        "projectPath": "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\Maze Runers .csproj",
         "packagesPath": "C:\\Users\\porra\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\porra\\OneDrive\\Escritorio\\Proj\\Proyecto-Completado\\obj\\",
         "projectStyle": "PackageReference",

@@ -110,3 +110,18 @@ C:\Users\Daniel\Desktop\Maze-RunersFuncional-EfectoDeFichas(InmunidadOK,  Movimi
 C:\Users\Daniel\Desktop\Maze-RunersFuncional-EfectoDeFichas(InmunidadOK,  Movimiento DobleOK y TeletransportaciónOK)1.7\obj\Debug\net8.0\Nueva carpeta (3).pdb
 C:\Users\Daniel\Desktop\Maze-RunersFuncional-EfectoDeFichas(InmunidadOK,  Movimiento DobleOK y TeletransportaciónOK)1.7\obj\Debug\net8.0\Nueva carpeta (3).genruntimeconfig.cache
 C:\Users\Daniel\Desktop\Maze-RunersFuncional-EfectoDeFichas(InmunidadOK,  Movimiento DobleOK y TeletransportaciónOK)1.7\obj\Debug\net8.0\ref\Nueva carpeta (3).dll
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Nueva carpeta (3).exe
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Nueva carpeta (3).deps.json
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Nueva carpeta (3).runtimeconfig.json
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Nueva carpeta (3).dll
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\bin\Debug\net8.0\Nueva carpeta (3).pdb
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).AssemblyInfoInputs.cache
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).AssemblyInfo.cs
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).csproj.CoreCompileInputs.cache
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).sourcelink.json
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).dll
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\refint\Nueva carpeta (3).dll
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).pdb
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\Nueva carpeta (3).genruntimeconfig.cache
+C:\Users\porra\OneDrive\Escritorio\Proj\Proyecto-Completado\obj\Debug\net8.0\ref\Nueva carpeta (3).dll
